@@ -2,19 +2,6 @@
 
 # About Me
 
-Hi there! I'm Smilte, a passionate Frontend Developer. I love building user-friendly and responsive web applications.
-
-## Table of Contents
-
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Projects](#projects)
-- [Experience](#experience)
-- [Education](#education)
-- [Contact](#contact)
-
-## About Me
-
 I'm a frontend developer with experience in creating web applications using modern technologies. I enjoy working on challenging projects that allow me to continuously learn and improve my skills.
 
 ## Skills
