@@ -27,5 +27,5 @@ I'm a frontend developer with experience in creating web applications using mode
 Feel free to reach out to me via email or connect with me on LinkedIn.
 
 - **Email**: [pavilionytesmilte@gmail.com](mailto:pavilionytesmilte@gmail.com)
-- **LinkedIn**: [linkedin.com/in/smilte/](https://www.linkedin.com/in/smilte/))
+- **LinkedIn**: [linkedin.com/in/smilte/](https://www.linkedin.com/in/smilte/)
 - **GitHub**: [github.com/etlimss](https://github.com/etlimss)
