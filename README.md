@@ -25,17 +25,6 @@ I'm a frontend developer with experience in creating web applications using mode
 - **Design**: Figma, VScode, Android studio, 
 - **Testing**: Esspreso, Cypress
 
-## Projects
-
-### [Project 1 Name](link-to-project)
-A brief description of the project and your role in it.
-
-### [Project 2 Name](link-to-project)
-A brief description of the project and your role in it.
-
-### [Project 3 Name](link-to-project)
-A brief description of the project and your role in it.
-
 ## Experience
 
 ### Web Developer, [EasyPartz ApS]
@@ -47,8 +36,7 @@ A brief description of the project and your role in it.
 
 ## Education
 
-### [Bachelor's in Software Informatics 
-Engineering], [Via University College]
+### [Bachelor's in Software Informatics Engineering], [Via University College]
 *02/2019 - 06/2022*
 
 - Cross-platform mobile application developed using JavaScript and React complimented by Python and MongoDB backend. The solution implements a 2-tiered architecture and utilizes technologies such as the HTTP request model which was used to allow communication between the tiers. The application was made to help prevent physical assaults where users can ask for help.
@@ -58,8 +46,8 @@ Engineering], [Via University College]
 Feel free to reach out to me via email or connect with me on LinkedIn.
 
 - **Email**: [pavilionytesmilte@gmail.com](mailto:pavilionytesmilte@gmail.com)
-- **LinkedIn**: [Smilte Pavilionyte](https://www.linkedin.com/in/smilte/))
-- **GitHub**: [Smilte Pavilionyte](https://github.com/etlimss)
+- **LinkedIn**: [linkedin.com/in/smilte/](https://www.linkedin.com/in/smilte/))
+- **GitHub**: [github.com/etlimss](https://github.com/etlimss)
 
 <!--
 **etlimss/etlimss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
